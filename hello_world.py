@@ -3,5 +3,5 @@ def hello(to):
 
 def main():
     user=input("Name: ")
-    print(hello(user))
+    print(hello(user)
     
